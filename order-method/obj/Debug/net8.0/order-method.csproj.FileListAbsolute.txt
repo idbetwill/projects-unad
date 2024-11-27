@@ -1,0 +1,14 @@
+D:\src\idbetwill\order-method\bin\Debug\net8.0\order-method.exe
+D:\src\idbetwill\order-method\bin\Debug\net8.0\order-method.deps.json
+D:\src\idbetwill\order-method\bin\Debug\net8.0\order-method.runtimeconfig.json
+D:\src\idbetwill\order-method\bin\Debug\net8.0\order-method.dll
+D:\src\idbetwill\order-method\bin\Debug\net8.0\order-method.pdb
+D:\src\idbetwill\order-method\obj\Debug\net8.0\order-method.GeneratedMSBuildEditorConfig.editorconfig
+D:\src\idbetwill\order-method\obj\Debug\net8.0\order-method.AssemblyInfoInputs.cache
+D:\src\idbetwill\order-method\obj\Debug\net8.0\order-method.AssemblyInfo.cs
+D:\src\idbetwill\order-method\obj\Debug\net8.0\order-method.csproj.CoreCompileInputs.cache
+D:\src\idbetwill\order-method\obj\Debug\net8.0\order-method.dll
+D:\src\idbetwill\order-method\obj\Debug\net8.0\refint\order-method.dll
+D:\src\idbetwill\order-method\obj\Debug\net8.0\order-method.pdb
+D:\src\idbetwill\order-method\obj\Debug\net8.0\order-method.genruntimeconfig.cache
+D:\src\idbetwill\order-method\obj\Debug\net8.0\ref\order-method.dll
