@@ -1,0 +1,32 @@
+Nombre del Proyecto: Distribución Químicos
+
+Descripción:
+Este programa simula un proceso de distribución de químicos en camiones desde una central de distribución hacia diferentes almacenes sucursales. Se establece un protocolo para cargar camiones con tanques de alcohol de ciertas capacidades y pesos específicos, garantizando que no se exceda la capacidad del camión ni se carguen sacas con volúmenes inadecuados. También se registra el número de camiones despachados, rechazados y el total de litros transportados.
+
+Entidades Principales:
+
+Camion: Representa un camión de distribución de químicos.
+Atributos:
+id: Identificador único del camión (int).
+capacidad: Capacidad máxima de carga del camión en litros (int).
+cargaActual: Cantidad actual de litros cargados en el camión (int).
+Saca: Representa una saca de alcohol.
+Atributos:
+id: Identificador único de la saca (int).
+volumen: Volumen de alcohol contenido en la saca en litros (int).
+Registro: Registra información sobre cada carga realizada en un camión.
+Atributos:
+id: Identificador único del registro (int).
+fecha: Fecha y hora en que se realizó la carga (timestamp).
+camionId: Identificador del camión cargado (int).
+cargaId: Identificador de la carga realizada (int).
+Métodos Principales:
+
+Main: Función principal que ejecuta el proceso de carga de los camiones.
+ObtenerCapacidad: Método para solicitar al usuario la capacidad del camión y validarla.
+CargarCamion: Método para cargar el camión con sacas de alcohol respetando la capacidad máxima y los volúmenes de las sacas.
+ObtenerPesoSaca: Método para solicitar al usuario el peso de la saca y validar que esté dentro del rango permitido.
+Consideraciones Adicionales:
+
+El programa verifica que se ingresen valores válidos para la capacidad del camión y el peso de la saca, mostrando mensajes de error si es necesario.
+Se registra el número de camiones despachados, rechazados y el total de litros transportados al final del proceso.
